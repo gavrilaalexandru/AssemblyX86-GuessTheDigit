@@ -1,1 +1,3 @@
 # AssemblyX86-GuessTheDigit
+
+This project is written in assembly language for the x86 architecture (MASM/TASM), utilizing DOS interrupt calls for user interaction and message display. The program prompts the user to enter a secret number, then allows another player to guess it, providing feedback based on whether the guess is too high, too low, or correct. It demonstrates fundamental assembly programming concepts such as input/output handling, conditional jumps, and stack operations, with all interactions occurring via DOS interrupt 21h functions. This project showcases the use of low-level programming to implement a simple number-guessing game.
